@@ -1,0 +1,43 @@
+commit 081e55b96a1b0586ad6ca339a4449511d38ae87a
+
+Author: Bernal <bernalmora@gmail.com>
+Date:   Sat May 2 17:06:13 2015 -0600
+
+    salve portafolio
+
+
+
+commit db9f0da9222aa67f20d559e96e9e2da7d3bac338
+
+Author: Bernal <bernalmora@gmail.com>
+Date:   Sat May 2 17:03:32 2015 -0600
+
+    
+se agrego redes sociales
+
+
+
+commit cde57391470fa411c85b9f633ce06b448a409126
+
+Author: Bernal <bernalmora@gmail.com>
+Date:   Sat May 2 17:00:25 2015 -0600
+
+    perfil
+
+
+
+commit 2f2df1d7cad76db8ea2a82cb40b4534bcffdce37
+
+Author: Bernal <bernalmora@gmail.com>
+Date:   Sat May 2 16:57:41 2015 -0600
+
+    foto de perfil y nombre
+
+
+
+commit e292dbe3984edd0e885032a55d926e8b3aa6dd2b
+
+Author: Bernal <bernalmora@gmail.com>
+Date:   Sat May 2 16:33:35 2015 -0600
+
+    estos son los archivos base del portafolio
